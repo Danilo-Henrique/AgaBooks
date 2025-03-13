@@ -1,5 +1,5 @@
 services:
-  database-pattrack:
+  database-agabooks:
     image: bitnami/postgresql
     ports:
       - 5432:5432
